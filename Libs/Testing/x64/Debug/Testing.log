@@ -1,0 +1,12 @@
+﻿  Testing.cpp
+C:\Users\kilom\source\repos\Libs\Vector\Vector.h(15,29): warning C4251: 'VectorSpace::Vector::x': 'NumberSpace::Number' needs to have dll-interface to be used by clients of 'VectorSpace::Vector'
+  (compiling source file 'Testing.cpp')
+      C:\Users\kilom\source\repos\Libs\Number\Number.h(5,11):
+      see declaration of 'NumberSpace::Number'
+  
+C:\Users\kilom\source\repos\Libs\Vector\Vector.h(16,29): warning C4251: 'VectorSpace::Vector::y': 'NumberSpace::Number' needs to have dll-interface to be used by clients of 'VectorSpace::Vector'
+  (compiling source file 'Testing.cpp')
+      C:\Users\kilom\source\repos\Libs\Number\Number.h(5,11):
+      see declaration of 'NumberSpace::Number'
+  
+  Testing.vcxproj -> C:\Users\kilom\source\repos\Libs\x64\Debug\Testing.exe
